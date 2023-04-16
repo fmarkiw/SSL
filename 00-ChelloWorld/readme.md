@@ -1,0 +1,1 @@
+El programa retorna un "Hello world" al ejecutarse
